@@ -37,6 +37,7 @@ Based on the model's insights, we formulated strategic recommendations for EBI. 
 
 - Using our best model to predict the churn probability for a new set of customers (ebi_exp_customers.csv).
 - Calculating the total expected profit of the retention campaign at different probability thresholds, considering:
+
 Cost to retain a customer: €1
 
 Value of a retained customer: €5 and €10 scenarios.
