@@ -40,6 +40,7 @@ Based on the model's insights, we formulated strategic recommendations for EBI. 
 
 
 Cost to retain a customer: €1
+
 Value of a retained customer: €5 and €10 scenarios.
 
 Recommending the optimal number of customers to target to maximize the campaign's return on investment.
